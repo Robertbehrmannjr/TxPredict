@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "programs/txpredict-market"
+]
+resolver = "2"
